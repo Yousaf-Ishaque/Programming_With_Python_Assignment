@@ -1,0 +1,50 @@
+# Virtual environment
+.venv/
+
+
+
+
+
+# PyCharm project settings
+.idea/
+
+
+
+
+
+# Python cache
+__pycache__/
+
+
+
+
+
+
+# Compiled Python files
+*.pyc
+
+
+
+
+
+
+
+
+
+
+# Windows thumbnail cache
+Thumbs.db
+
+
+
+
+
+
+
+
+
+
+
+
+# macOS Finder metadata
+.DS_Store
