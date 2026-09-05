@@ -1,3 +1,8 @@
+# Main execution workflow: load, process, map, test and visualize the datasets.
+
+""" Main execution workflow: Load, Process, Map, Test, and Visualization of datasets """
+
+
 from database import DatabaseManager
 from data_loader import DataLoader
 from function_selector import FunctionSelector
